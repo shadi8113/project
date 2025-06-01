@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hhhhhhhh
 this is file page
+=======
+hhhhhhhhhhh
+welcom
+>>>>>>> deve
